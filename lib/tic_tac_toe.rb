@@ -122,9 +122,6 @@ def winner(board)
       return "O"
     end
   end
-  # if won?(board)
-  #   return board[won?(board)[0]]
-  # end
 end
 
 def play(board)
